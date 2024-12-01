@@ -62,12 +62,10 @@
         <img src="previews/aurorae-color-scheme.png">
     </details>
 </details>
-<br>
 <details>
     <summary style="font-size: 1.2em; font-weight: bold">Software Themes</summary>
     <hr>
 </details>
-<br>
 
 ## DE Themes
 > Anything directly from KDE Store recommended installation via `System Settings - Get New Themes` or `ocs-url`
