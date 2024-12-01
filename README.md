@@ -125,21 +125,18 @@
 > Anything directly from KDE Store recommended installation via `System Settings - Get New Themes` or `ocs-url`
 
 ### Plasma Theme
-- [**Aritim Dark Rounded Blur**](https://store.kde.org/p/1534788)
-<br><br>
+- [**Aritim Dark Rounded Blur**](https://store.kde.org/p/1534788)<br><br>
 - **Install dir:** `~/.local/share/plasma/desktoptheme`
 
 ### Aurorae Theme
 - **Located in:** `desktop-environment/aurorae`<br>
 - **Based on:** [**Aritim-Dark**](https://store.kde.org/p/1320512)<br>
-- **Buttons used from:** [**Flat Remix Darkest Aurorae**](https://store.kde.org/p/1315475)
-<br><br>
+- **Buttons used from:** [**Flat Remix Darkest Aurorae**](https://store.kde.org/p/1315475)<br><br>
 - **Install dir:** `~/.local/share/aurorae/themes`
 
 ### Color Scheme
 - **Located in:** `desktop-environment/color-schemes`<br>
-- **Based on:** Aritim Dark Accent Color
-<br><br>
+- **Based on:** Aritim Dark Accent Color<br><br>
 - **Install dir:** `~/.local/share/color-schemes/`
 
 ### Fonts
@@ -165,16 +162,14 @@
 
 ### qBitTorrent
 - **Located in:** `software/qbittorrent`<br>
-- **Based on** [**Dracula Theme**](https://draculatheme.com/qbittorrent)<br>
-<br>
+- **Based on** [**Dracula Theme**](https://draculatheme.com/qbittorrent)<br><br>
 - **Install dir:** Any. I like to keep it in `~/.config/qBitTorrent`.<br>
 - **Applying:** 
     - qBitTorrent -> Settings -> Behaviour -> Interface -> ✔ Use custom UI theme -> Select theme file from filesystem 
 
 ### BetterDiscord/Vencord
 - **Located in:** `software/vesktop`<br>
-- **Based on:** [**Discord Recolor**](https://betterdiscord.app/theme/DiscordRecolor)
-<br><br>
+- **Based on:** [**Discord Recolor**](https://betterdiscord.app/theme/DiscordRecolor)<br><br>
 - **Install dir:** *for Vesktop (which I use)* `~/.config/vesktop`
 
 ### VSCode
@@ -182,18 +177,15 @@
 
 ### Yakuake
 - **Located in:** `software/yakuake`<br>
-- **Based on:** [**ROUNDED DARK**](https://store.kde.org/p/1493708)
-<br><br>
+- **Based on:** [**ROUNDED DARK**](https://store.kde.org/p/1493708)<br><br>
 - **Install dir:** `~/.local/share/yakuake/kns_skins`
 
 ### Konsole Profile
-- **Located in:** `software/konsole`<br>
-<br>
+- **Located in:** `software/konsole`<br><br>
 - **Install dir:** `~/.local/share/konsole`
 
 ### JamesDSP
-- **Located id:** `software/jamesdsp`<br>
-<br>
+- **Located id:** `software/jamesdsp`<br><br>
 - **Install dir:** `~/.config/jamesdsp`
 - **Installation Instructions:**
     - `cd ~/.config/jamesdsp/`
