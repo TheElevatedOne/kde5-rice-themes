@@ -27,5 +27,4 @@ div.mdcontainer {
     max-width: 1250px; 
     margin: 0 auto;
     background-color: var(--cbgcolor);
-    height: 100vh;
 }
