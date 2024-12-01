@@ -17,7 +17,12 @@
     - [**Splash Screen**](#splash-screen)
     - [**GTK Theme**](#gtk-theme)
 - [**Software Themes**](#software-themes)
-    - [**qBitTorrent Theme**](#qbittorrent)
+    - [**qBitTorrent**](#qbittorrent)
+    - [**BetterDiscord/Vencord**](#betterdiscordvencord)
+    - [**VSCode**](#vscode)
+    - [**Yakuake**](#yakuake)
+    - [**Konsole Profile**](#konsole-profile)
+    - [**JamesDSP**](#jamesdsp)
 
 ---
 ## Previews
