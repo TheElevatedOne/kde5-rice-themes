@@ -1,4 +1,4 @@
-# kde5-rice-theme
+# Aritim Dark KDE 5.27 Rice
 > **Repo for theme files and config for my KDE Plasma 5.27 Rice**<br>
 > This theme started from me liking the Aritim Dark Plasma theme.
 ### Disclaimer:

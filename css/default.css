@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "OpenSans";
+    src: url("../fonts/OpenSans-VariableFont_wdthwght.ttf");
+}
+
+@font-face {
+    font-family: "LiberationMono";
+    src: url("../fonts/LiberationMono-Regular.ttf");
+}
+
+:root {
+    --color: rgb(235, 235, 235);
+    --bgcolor: rgb(20, 26, 33);
+    --cbgcolor: rgb(17, 22, 28);
+}
+
+body {
+    overflow-x: hidden;
+    color: var(--color);
+    background-color: var(--bgcolor);
+    line-height: 1.7;
+    font-family: "OpenSans";
+}
+
+div.mdcontainer {
+    padding: 3vh;
+    max-width: 1250px; 
+    margin: 0 auto;
+    background-color: var(--cbgcolor);
+    height: 100vh;
+}
