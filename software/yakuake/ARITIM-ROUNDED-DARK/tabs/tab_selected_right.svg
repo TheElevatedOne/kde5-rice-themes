@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3"
+   height="30"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="tab_selected_right.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.833333"
+     inkscape:cx="1.4903226"
+     inkscape:cy="14.980645"
+     inkscape:window-width="1920"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <g
+     id="g1755">
+    <rect
+       style="fill:#141a21;fill-opacity:1"
+       width="3"
+       height="30"
+       x="-3"
+       y="0"
+       id="rect2"
+       transform="scale(-1,1)" />
+    <path
+       style="fill:#616468"
+       d="M 0,30 V 0 h 3 v 28 c 0,1.090703 -0.9092972,2 -2,2 z"
+       id="path4" />
+    <path
+       style="fill:#324052;fill-opacity:1"
+       d="M 0,29 V 0 h 2 v 28 c 0,0.554 -0.446,1 -1,1 z"
+       id="path6" />
+  </g>
+</svg>

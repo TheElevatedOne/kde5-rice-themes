@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1"
+   height="30"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="tab_selected.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="25.833333"
+     inkscape:cx="0.48387097"
+     inkscape:cy="14.980645"
+     inkscape:window-width="1920"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <g
+     id="g1409">
+    <rect
+       style="fill:#324053;fill-opacity:1"
+       width="1"
+       height="29"
+       x="0"
+       y="-29"
+       transform="scale(1,-1)"
+       id="rect2" />
+    <rect
+       style="fill:#616468"
+       width="1"
+       height="1"
+       x="0"
+       y="-30"
+       transform="scale(1,-1)"
+       id="rect4" />
+  </g>
+</svg>
