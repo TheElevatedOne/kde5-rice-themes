@@ -1,6 +1,7 @@
 # Aritim Dark KDE 5.27 Rice
 > **Repo for theme files and config for my KDE Plasma 5.27 Rice**<br>
-> This theme started from me liking the Aritim Dark Plasma theme.
+> This theme started from me liking the Aritim Dark Plasma theme.<br>
+> **Currently WIP**
 ### Disclaimer:
 - Any `Install dir` path is for a local package (**for Ubuntu** eg. installed via apt, .deb file or built from source)
 - I don't know flatpak and snap config dirs since I don't use them that often

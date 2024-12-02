@@ -9,9 +9,16 @@
 }
 
 :root {
+    --link-color: rgb(112, 176, 249);
+    --clink-color: rgb(34, 126, 232);
     --color: rgb(235, 235, 235);
+    --code-color: rgb(255, 255,255);
     --bgcolor: rgb(20, 26, 33);
     --cbgcolor: rgb(17, 22, 28);
+    --code-bgcolor: rgb(38, 50, 63);
+    --bq-bgcolor: rgba(7, 10, 12, 0.75);
+    --hr-color: rgba(70, 100, 135, 0.75);
+    --nav-color: rgb(225, 235, 255);
 }
 
 body {
@@ -20,6 +27,7 @@ body {
     background-color: var(--bgcolor);
     line-height: 1.7;
     font-family: "OpenSans";
+    cursor: default;
 }
 
 div.mdcontainer {
@@ -27,4 +35,122 @@ div.mdcontainer {
     max-width: 1250px; 
     margin: 0 auto;
     background-color: var(--cbgcolor);
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    font-weight: 700;
+    font-size: 2.5em;
+}
+
+code {
+    color: var(--code-color);
+    background-color: var(--code-bgcolor);
+    padding: 0.5em;
+    font-family: "LiberationMono";
+    font-size: small;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+a {
+    color: var(--link-color);
+    cursor: pointer;
+}
+
+a:visited {
+    color: var(--clink-color)
+}
+
+hr {
+    border: 0.2em solid var(--hr-color);
+    border-radius: 1em;
+}
+
+blockquote {
+    text-align: center;
+    background-color: var(--bq-bgcolor);
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    border-radius: 1.5em;
+    width: 35em;
+    margin: 0 auto;
+    color: rgba(255, 255, 255, 0.75);
+    transition: 0.5s;
+}
+
+blockquote:hover {
+    background-color: rgba(7, 10, 12, 1);
+    color: rgb(255, 255, 255);
+}
+
+h2#de-themes {
+    & + blockquote {
+        text-align: left;
+        background-color: var(--bq-bgcolor);
+        padding-top: 0.1em;
+        padding-bottom: 0.1em;
+        padding-left: 1.2em;
+        padding-right: 1.2em;
+        border-radius: 0;
+        border-top-right-radius: 1.5em;
+        border-bottom-right-radius: 1.5em;
+        color: rgba(255, 255, 255, 0.75);
+        margin: unset;
+        width: fit-content;
+    }
+}
+
+h2#navigation {
+    & + ul > li a {
+        color: var(--nav-color);
+        scroll-behavior: smooth;
+    }
+    & + ul > li a:visited {
+        color: var(--nav-color);
+    }
+}
+
+h2#previews {
+    & + details {
+        cursor: pointer;
+        & > hr {
+            border: 0.2em solid var(--hr-color);
+            border-radius: 1em;
+            width: 95%;
+            cursor: default;
+        }
+        & > ul {
+            list-style-type: none;
+            & > li {
+                cursor: pointer;
+
+                & > details > img {
+                    max-width: 100%;
+                    margin-bottom: 1em;
+                    cursor: default;
+                }
+            }
+        }
+        & + details {
+            & > hr {
+                border: 0.2em solid var(--hr-color);
+                border-radius: 1em;
+                width: 95%;
+            }
+            & > ul {
+                list-style-type: none;
+                & > li {
+                    cursor: pointer;
+    
+                    & > details > img {
+                        max-width: 100%;
+                        margin-bottom: 1em;
+                        cursor: default;
+                    }
+                }
+            }
+        }
+    }
 }
