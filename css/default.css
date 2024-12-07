@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "OpenSans";
+    src: url("../fonts/OpenSans-VariableFont_wdthwght.ttf");
+}
+
+@font-face {
+    font-family: "LiberationMono";
+    src: url("../fonts/LiberationMono-Regular.ttf");
+}
+
+:root {
+    --link-color: rgb(112, 176, 249);
+    --clink-color: rgb(34, 126, 232);
+    --color: rgb(235, 235, 235);
+    --code-color: rgb(255, 255,255);
+    --bgcolor: rgb(20, 26, 33);
+    --cbgcolor: rgb(17, 22, 28);
+    --code-bgcolor: rgb(38, 50, 63);
+    --bq-bgcolor: rgba(7, 10, 12, 0.75);
+    --hr-color: rgba(70, 100, 135, 0.75);
+    --nav-color: rgb(225, 235, 255);
+}
+
+body {
+    overflow-x: hidden;
+    color: var(--color);
+    background-color: var(--bgcolor);
+    line-height: 1.7;
+    font-family: "OpenSans";
+    cursor: default;
+}
+
+div.center {
+    position: absolute;
+    max-width: 1250px;
+    background-color: var(--cbgcolor);
+
+}
